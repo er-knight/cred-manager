@@ -1,4 +1,4 @@
-## passman
-Simple command-line Password Manager written in Python.
+## mycreden
+simple command-line credentials manager
 
-`Python 3.6` `SQLite 3.22`
+[`Python`](https://www.python.org/) [`SQLite`](https://www.sqlite.org/index.html)
